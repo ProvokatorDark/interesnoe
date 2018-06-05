@@ -1,12 +1,12 @@
 {
-  "name": "redux-ru-tutorial",
+  "name": "redux",
   "version": "1.0.0",
-  "description": "Redux RU tutorial",
+  "description": "Redux RU",
   "main": "index.html",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Maxim Patsianskiy",
+  "author": "ProvokatorDark",
   "license": "MIT",
   "devDependencies": {
     "express": "^4.13.4"
